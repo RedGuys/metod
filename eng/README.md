@@ -46,7 +46,7 @@
 **Важный момент для иллюстрации:**  
 Показ demo.iso и состава ПО на экране — [00:03:00]
 
-![Скриншот в 00:03:00](./screenshots\screenshot_00-03-00.jpg)
+![Скриншот в 00:03:00](./screenshots/screenshot_00-03-00.jpg)
  (примерно, когда перечисляются программы).
 
 ---
@@ -71,7 +71,7 @@
 **Важный момент для иллюстрации:**  
 Показ правильной организации рабочего места и блокировки экрана — [00:13:30]
 
-![Скриншот в 00:13:30](./screenshots\screenshot_00-13-30.jpg)
+![Скриншот в 00:13:30](./screenshots/screenshot_00-13-30.jpg)
 
 
 ---
@@ -99,7 +99,7 @@
 **Важный момент для иллюстрации:**  
 Показ схемы сети и этапов настройки — [00:18:00]
 
-![Скриншот в 00:18:00](./screenshots\screenshot_00-18-00.jpg)
+![Скриншот в 00:18:00](./screenshots/screenshot_00-18-00.jpg)
 
 
 ---
@@ -122,7 +122,7 @@
 **Важный момент для иллюстрации:**  
 Показ схемы с IP-адресами — [00:21:30]
 
-![Скриншот в 00:21:30](./screenshots\screenshot_00-21-30.jpg)
+![Скриншот в 00:21:30](./screenshots/screenshot_00-21-30.jpg)
 
 
 ---
@@ -163,10 +163,10 @@ This segment covers the practical setup of a corporate network simulation for an
 #### Visual Illustration Recommended
 - **[00:23:30]
 
-![Скриншот в 00:23:30](./screenshots\screenshot_00-23-30.jpg)
+![Скриншот в 00:23:30](./screenshots/screenshot_00-23-30.jpg)
 
 
-![Скриншот в 00:23:30](./screenshots\screenshot_00-23-30.jpg)
+![Скриншот в 00:23:30](./screenshots/screenshot_00-23-30.jpg)
 **: Screenshot of the hand-drawn network diagram with labeled subnets.
 
 ---
@@ -190,10 +190,10 @@ This segment covers the practical setup of a corporate network simulation for an
 #### Visual Illustration Recommended
 - **[00:30:00]
 
-![Скриншот в 00:30:00](./screenshots\screenshot_00-30-00.jpg)
+![Скриншот в 00:30:00](./screenshots/screenshot_00-30-00.jpg)
 
 
-![Скриншот в 00:30:00](./screenshots\screenshot_00-30-00.jpg)
+![Скриншот в 00:30:00](./screenshots/screenshot_00-30-00.jpg)
 **: Screenshot of the binary-to-decimal mask conversion in Word.
 
 #### Example Calculation (as shown in transcript):
@@ -234,10 +234,10 @@ Decimal:           255.      255.      255.      224
 #### Visual Illustration Recommended
 - **[00:46:00]
 
-![Скриншот в 00:46:00](./screenshots\screenshot_00-46-00.jpg)
+![Скриншот в 00:46:00](./screenshots/screenshot_00-46-00.jpg)
 
 
-![Скриншот в 00:46:00](./screenshots\screenshot_00-46-00.jpg)
+![Скриншот в 00:46:00](./screenshots/screenshot_00-46-00.jpg)
 **: Screenshot of the ESXi interface showing the six VMs and their assigned roles.
 
 ---
@@ -252,10 +252,10 @@ Decimal:           255.      255.      255.      224
 #### Visual Illustration Recommended
 - **[00:48:30]
 
-![Скриншот в 00:48:30](./screenshots\screenshot_00-48-30.jpg)
+![Скриншот в 00:48:30](./screenshots/screenshot_00-48-30.jpg)
 
 
-![Скриншот в 00:48:30](./screenshots\screenshot_00-48-30.jpg)
+![Скриншот в 00:48:30](./screenshots/screenshot_00-48-30.jpg)
 **: Screenshot of ESXi's networking section with the virtual switch and port groups.
 
 ---
@@ -319,7 +319,7 @@ This section of the video covers the configuration of virtual network adapters a
 - **Coordinator Setup**:
   - The coordinator VM requires four adapters, all enabled initially ([00:51:00]
 
-![Скриншот в 00:51:00](./screenshots\screenshot_00-51-00.jpg)
+![Скриншот в 00:51:00](./screenshots/screenshot_00-51-00.jpg)
 ).
   - Adapters are mapped as follows:
     - Adapter 0 (ES0): Internet-facing
@@ -331,15 +331,15 @@ This section of the video covers the configuration of virtual network adapters a
 - **Adapter assignment and network mapping diagram**  
   - Timestamp: [00:52:30]
 
-![Скриншот в 00:52:30](./screenshots\screenshot_00-52-30.jpg)
+![Скриншот в 00:52:30](./screenshots/screenshot_00-52-30.jpg)
 
 
-![Скриншот в 00:52:30](./screenshots\screenshot_00-52-30.jpg)
+![Скриншот в 00:52:30](./screenshots/screenshot_00-52-30.jpg)
 
 - **Network settings screen showing adapters and "Connect" checkboxes**  
   - Timestamp: [00:53:10]
 
-![Скриншот в 00:53:10](./screenshots\screenshot_00-53-10.jpg)
+![Скриншот в 00:53:10](./screenshots/screenshot_00-53-10.jpg)
 
 
 ---
@@ -356,10 +356,10 @@ This section of the video covers the configuration of virtual network adapters a
   - Double-check that each VM is connected to the correct network segment.
   - Correction example: The net2 client should be connected to the branch, not the office ([01:01:00]
 
-![Скриншот в 01:01:00](./screenshots\screenshot_01-01-00.jpg)
+![Скриншот в 01:01:00](./screenshots/screenshot_01-01-00.jpg)
 
 
-![Скриншот в 01:01:00](./screenshots\screenshot_01-01-00.jpg)
+![Скриншот в 01:01:00](./screenshots/screenshot_01-01-00.jpg)
 ).
 
 ---
@@ -369,10 +369,10 @@ This section of the video covers the configuration of virtual network adapters a
 - **Preparation**:
   - Attach the ISO image containing installation files (demo.so) to the VM ([01:03:00]
 
-![Скриншот в 01:03:00](./screenshots\screenshot_01-03-00.jpg)
+![Скриншот в 01:03:00](./screenshots/screenshot_01-03-00.jpg)
 
 
-![Скриншот в 01:03:00](./screenshots\screenshot_01-03-00.jpg)
+![Скриншот в 01:03:00](./screenshots/screenshot_01-03-00.jpg)
 ).
   - Copy SQL Server installer and Management Studio to the VM desktop.
 - **Network Configuration**:
@@ -386,10 +386,10 @@ This section of the video covers the configuration of virtual network adapters a
   - Disable IPv6 to avoid conflicts.
   - Turn off Windows Firewall for the training environment ([01:07:30]
 
-![Скриншот в 01:07:30](./screenshots\screenshot_01-07-30.jpg)
+![Скриншот в 01:07:30](./screenshots/screenshot_01-07-30.jpg)
 
 
-![Скриншот в 01:07:30](./screenshots\screenshot_01-07-30.jpg)
+![Скриншот в 01:07:30](./screenshots/screenshot_01-07-30.jpg)
 ).
 - **Time and Date**:
   - Set the system date to match the license validity (2024).
@@ -403,24 +403,24 @@ This section of the video covers the configuration of virtual network adapters a
   - Set SQL Server and SQL Server Browser to automatic startup.
   - Use "Mixed Mode" authentication (SQL + Windows), set the SA password ([01:11:00]
 
-![Скриншот в 01:11:00](./screenshots\screenshot_01-11-00.jpg)
+![Скриншот в 01:11:00](./screenshots/screenshot_01-11-00.jpg)
 
 
-![Скриншот в 01:11:00](./screenshots\screenshot_01-11-00.jpg)
+![Скриншот в 01:11:00](./screenshots/screenshot_01-11-00.jpg)
 
 
-![Скриншот в 01:11:00](./screenshots\screenshot_01-11-00.jpg)
+![Скриншот в 01:11:00](./screenshots/screenshot_01-11-00.jpg)
 ).
 - **Documentation**:
   - Create a text file (`ip.txt`) on the desktop to record all IP addresses, logins, and passwords for each VM ([01:12:30]
 
-![Скриншот в 01:12:30](./screenshots\screenshot_01-12-30.jpg)
+![Скриншот в 01:12:30](./screenshots/screenshot_01-12-30.jpg)
 
 
-![Скриншот в 01:12:30](./screenshots\screenshot_01-12-30.jpg)
+![Скриншот в 01:12:30](./screenshots/screenshot_01-12-30.jpg)
 
 
-![Скриншот в 01:12:30](./screenshots\screenshot_01-12-30.jpg)
+![Скриншот в 01:12:30](./screenshots/screenshot_01-12-30.jpg)
 ).
   - Example entries:
     ```
@@ -458,7 +458,7 @@ This section of the video covers the configuration of virtual network adapters a
 | ISO Attachment             | Mount demo.so ISO for software installation           | [01:03:00]    |
 | IP Address Assignment      | Set static IPs, disable IPv6, set gateway             | [01:07:00]
 
-![Скриншот в 01:07:00](./screenshots\screenshot_01-07-00.jpg)
+![Скриншот в 01:07:00](./screenshots/screenshot_01-07-00.jpg)
     |
 | Firewall                   | Disable for training purposes                         | [01:07:30]    |
 | SQL Server Installation    | Mixed Mode, set SA password, use WinNCC SQL instance  | [01:11:00]    |
@@ -507,10 +507,10 @@ This section of the video covers the configuration of IP addresses, SQL Server i
 #### Visual Moment: SQL Server Installation Completion
 - **Timestamp:** [01:19:30]
 
-![Скриншот в 01:19:30](./screenshots\screenshot_01-19-30.jpg)
+![Скриншот в 01:19:30](./screenshots/screenshot_01-19-30.jpg)
 
 
-![Скриншот в 01:19:30](./screenshots\screenshot_01-19-30.jpg)
+![Скриншот в 01:19:30](./screenshots/screenshot_01-19-30.jpg)
 
 - *Screenshot recommended of the completed SQL Server installation window with all green checkmarks.*
 
@@ -525,10 +525,10 @@ This section of the video covers the configuration of IP addresses, SQL Server i
 #### Visual Moment: Screenshot Naming and Saving
 - **Timestamp:** [01:22:15]
 
-![Скриншот в 01:22:15](./screenshots\screenshot_01-22-15.jpg)
+![Скриншот в 01:22:15](./screenshots/screenshot_01-22-15.jpg)
 
 
-![Скриншот в 01:22:15](./screenshots\screenshot_01-22-15.jpg)
+![Скриншот в 01:22:15](./screenshots/screenshot_01-22-15.jpg)
 
 - *Screenshot of the file save dialog with the correct naming convention.*
 
@@ -548,10 +548,10 @@ This section of the video covers the configuration of IP addresses, SQL Server i
 #### Visual Moment: SQL Server Configuration Utility
 - **Timestamp:** [01:26:40]
 
-![Скриншот в 01:26:40](./screenshots\screenshot_01-26-40.jpg)
+![Скриншот в 01:26:40](./screenshots/screenshot_01-26-40.jpg)
 
 
-![Скриншот в 01:26:40](./screenshots\screenshot_01-26-40.jpg)
+![Скриншот в 01:26:40](./screenshots/screenshot_01-26-40.jpg)
 
 - *Screenshot of the SQL Server Configuration Manager with all necessary services and protocols enabled.*
 
@@ -571,10 +571,10 @@ This section of the video covers the configuration of IP addresses, SQL Server i
 #### Visual Moment: Admin Machine IP Configuration
 - **Timestamp:** [01:37:50]
 
-![Скриншот в 01:37:50](./screenshots\screenshot_01-37-50.jpg)
+![Скриншот в 01:37:50](./screenshots/screenshot_01-37-50.jpg)
 
 
-![Скриншот в 01:37:50](./screenshots\screenshot_01-37-50.jpg)
+![Скриншот в 01:37:50](./screenshots/screenshot_01-37-50.jpg)
 
 - *Screenshot of the network adapter properties showing the correct IP, subnet mask, and gateway settings.*
 
@@ -618,10 +618,10 @@ This section of the video covers the configuration of IP addresses, SQL Server i
     - В отчёте рекомендуется зафиксировать наличие связи с базой данных (скриншот не обязателен, но желателен для спорных моментов).
     - **Важный момент для скриншота:** успешный пинг до SQL сервера [01:39:30]
 
-![Скриншот в 01:39:30](./screenshots\screenshot_01-39-30.jpg)
+![Скриншот в 01:39:30](./screenshots/screenshot_01-39-30.jpg)
 
 
-![Скриншот в 01:39:30](./screenshots\screenshot_01-39-30.jpg)
+![Скриншот в 01:39:30](./screenshots/screenshot_01-39-30.jpg)
 
 
 ### 2. Подключение образа демо и подготовка ПО
@@ -655,10 +655,10 @@ This section of the video covers the configuration of IP addresses, SQL Server i
 
     - **Важный момент для скриншота:** появление ошибки подключения к SQL серверу [01:52:30]
 
-![Скриншот в 01:52:30](./screenshots\screenshot_01-52-30.jpg)
+![Скриншот в 01:52:30](./screenshots/screenshot_01-52-30.jpg)
 
 
-![Скриншот в 01:52:30](./screenshots\screenshot_01-52-30.jpg)
+![Скриншот в 01:52:30](./screenshots/screenshot_01-52-30.jpg)
 
 
 ### 5. Исправление ошибки FileStream в SQL Server
@@ -671,17 +671,17 @@ This section of the video covers the configuration of IP addresses, SQL Server i
 
     - **Важный момент для скриншота:** изменение параметра FileStream в SSMS [01:59:00]
 
-![Скриншот в 01:59:00](./screenshots\screenshot_01-59-00.jpg)
+![Скриншот в 01:59:00](./screenshots/screenshot_01-59-00.jpg)
 
 
-![Скриншот в 01:59:00](./screenshots\screenshot_01-59-00.jpg)
+![Скриншот в 01:59:00](./screenshots/screenshot_01-59-00.jpg)
 
     - **Важный момент для скриншота:** успешная проверка подключения после исправления [02:01:00]
 
-![Скриншот в 02:01:00](./screenshots\screenshot_02-01-00.jpg)
+![Скриншот в 02:01:00](./screenshots/screenshot_02-01-00.jpg)
 
 
-![Скриншот в 02:01:00](./screenshots\screenshot_02-01-00.jpg)
+![Скриншот в 02:01:00](./screenshots/screenshot_02-01-00.jpg)
 
 
 ### 6. Дальнейшая установка компонентов
@@ -694,10 +694,10 @@ This section of the video covers the configuration of IP addresses, SQL Server i
 
     - **Важный момент для скриншота:** итоговый список установленных программ [02:05:30]
 
-![Скриншот в 02:05:30](./screenshots\screenshot_02-05-30.jpg)
+![Скриншот в 02:05:30](./screenshots/screenshot_02-05-30.jpg)
 
 
-![Скриншот в 02:05:30](./screenshots\screenshot_02-05-30.jpg)
+![Скриншот в 02:05:30](./screenshots/screenshot_02-05-30.jpg)
 
 
 ### 7. Организационные моменты по стендам и экзамену
@@ -768,10 +768,10 @@ This section covers the step-by-step process of installing and configuring vario
 - **Screenshot required:** After successful installation and first launch.
   - **Timestamp:** [02:09:00]
 
-![Скриншот в 02:09:00](./screenshots\screenshot_02-09-00.jpg)
+![Скриншот в 02:09:00](./screenshots/screenshot_02-09-00.jpg)
 
 
-![Скриншот в 02:09:00](./screenshots\screenshot_02-09-00.jpg)
+![Скриншот в 02:09:00](./screenshots/screenshot_02-09-00.jpg)
  (approximate, after installation and first launch)
 
 ---
@@ -786,10 +786,10 @@ This section covers the step-by-step process of installing and configuring vario
   - **Screenshot required:** Installation process, directory where software is installed, and first launch.
   - **Timestamp:** [02:19:00]
 
-![Скриншот в 02:19:00](./screenshots\screenshot_02-19-00.jpg)
+![Скриншот в 02:19:00](./screenshots/screenshot_02-19-00.jpg)
 
 
-![Скриншот в 02:19:00](./screenshots\screenshot_02-19-00.jpg)
+![Скриншот в 02:19:00](./screenshots/screenshot_02-19-00.jpg)
  (approximate, after installation and directory screenshot)
 
 ---
@@ -802,10 +802,10 @@ This section covers the step-by-step process of installing and configuring vario
 - **Screenshot required:** Network settings and successful connectivity test.
   - **Timestamp:** [02:23:00]
 
-![Скриншот в 02:23:00](./screenshots\screenshot_02-23-00.jpg)
+![Скриншот в 02:23:00](./screenshots/screenshot_02-23-00.jpg)
 
 
-![Скриншот в 02:23:00](./screenshots\screenshot_02-23-00.jpg)
+![Скриншот в 02:23:00](./screenshots/screenshot_02-23-00.jpg)
  (approximate, after network configuration)
 
 ---
@@ -828,10 +828,10 @@ This section covers the step-by-step process of installing and configuring vario
 - **Screenshot required:** Login screen and password change process.
   - **Timestamp:** [02:27:00]
 
-![Скриншот в 02:27:00](./screenshots\screenshot_02-27-00.jpg)
+![Скриншот в 02:27:00](./screenshots/screenshot_02-27-00.jpg)
 
 
-![Скриншот в 02:27:00](./screenshots\screenshot_02-27-00.jpg)
+![Скриншот в 02:27:00](./screenshots/screenshot_02-27-00.jpg)
  (approximate, during login and password setup)
 
 #### Creating the Network Structure
@@ -845,10 +845,10 @@ This section covers the step-by-step process of installing and configuring vario
 - **Screenshot required:** Network structure diagram and roles assignment.
   - **Timestamp:** [02:31:00]
 
-![Скриншот в 02:31:00](./screenshots\screenshot_02-31-00.jpg)
+![Скриншот в 02:31:00](./screenshots/screenshot_02-31-00.jpg)
 
 
-![Скриншот в 02:31:00](./screenshots\screenshot_02-31-00.jpg)
+![Скриншот в 02:31:00](./screenshots/screenshot_02-31-00.jpg)
  (approximate, after network structure setup)
 
 #### Additional Notes
@@ -923,10 +923,10 @@ This segment covers the finalization of a secure network setup, including:
 - **Key Visual Step**: Adding roles to users and confirming assignments  
   **Timestamp**: [02:35:00]
 
-![Скриншот в 02:35:00](./screenshots\screenshot_02-35-00.jpg)
+![Скриншот в 02:35:00](./screenshots/screenshot_02-35-00.jpg)
 
 
-![Скриншот в 02:35:00](./screenshots\screenshot_02-35-00.jpg)
+![Скриншот в 02:35:00](./screenshots/screenshot_02-35-00.jpg)
 
 
 ---
@@ -940,10 +940,10 @@ This segment covers the finalization of a secure network setup, including:
 - **Key Visual Step**: Setting up and verifying user communication links  
   **Timestamp**: [02:37:00]
 
-![Скриншот в 02:37:00](./screenshots\screenshot_02-37-00.jpg)
+![Скриншот в 02:37:00](./screenshots/screenshot_02-37-00.jpg)
 
 
-![Скриншот в 02:37:00](./screenshots\screenshot_02-37-00.jpg)
+![Скриншот в 02:37:00](./screenshots/screenshot_02-37-00.jpg)
 
 
 ---
@@ -958,10 +958,10 @@ This segment covers the finalization of a secure network setup, including:
 - **Key Visual Step**: Taking screenshots of network structure and user roles  
   **Timestamp**: [02:41:00]
 
-![Скриншот в 02:41:00](./screenshots\screenshot_02-41-00.jpg)
+![Скриншот в 02:41:00](./screenshots/screenshot_02-41-00.jpg)
 
 
-![Скриншот в 02:41:00](./screenshots\screenshot_02-41-00.jpg)
+![Скриншот в 02:41:00](./screenshots/screenshot_02-41-00.jpg)
 
 
 ---
@@ -977,10 +977,10 @@ This segment covers the finalization of a secure network setup, including:
 - **Key Visual Step**: Running network validation and exporting HTML report  
   **Timestamp**: [02:45:00]
 
-![Скриншот в 02:45:00](./screenshots\screenshot_02-45-00.jpg)
+![Скриншот в 02:45:00](./screenshots/screenshot_02-45-00.jpg)
 
 
-![Скриншот в 02:45:00](./screenshots\screenshot_02-45-00.jpg)
+![Скриншот в 02:45:00](./screenshots/screenshot_02-45-00.jpg)
 
 
 ---
@@ -996,10 +996,10 @@ This segment covers the finalization of a secure network setup, including:
 - **Key Visual Step**: Key Center setup and password assignment  
   **Timestamp**: [02:51:00]
 
-![Скриншот в 02:51:00](./screenshots\screenshot_02-51-00.jpg)
+![Скриншот в 02:51:00](./screenshots/screenshot_02-51-00.jpg)
 
 
-![Скриншот в 02:51:00](./screenshots\screenshot_02-51-00.jpg)
+![Скриншот в 02:51:00](./screenshots/screenshot_02-51-00.jpg)
 
 
 - **Creating Key Containers**:
@@ -1009,10 +1009,10 @@ This segment covers the finalization of a secure network setup, including:
 - **Key Visual Step**: Creating and assigning passwords to key containers  
   **Timestamp**: [02:53:00]
 
-![Скриншот в 02:53:00](./screenshots\screenshot_02-53-00.jpg)
+![Скриншот в 02:53:00](./screenshots/screenshot_02-53-00.jpg)
 
 
-![Скриншот в 02:53:00](./screenshots\screenshot_02-53-00.jpg)
+![Скриншот в 02:53:00](./screenshots/screenshot_02-53-00.jpg)
 
 
 ---
@@ -1028,10 +1028,10 @@ This segment covers the finalization of a secure network setup, including:
 - **Key Visual Step**: Creating ISO image from key folder  
   **Timestamp**: [02:55:00]
 
-![Скриншот в 02:55:00](./screenshots\screenshot_02-55-00.jpg)
+![Скриншот в 02:55:00](./screenshots/screenshot_02-55-00.jpg)
 
 
-![Скриншот в 02:55:00](./screenshots\screenshot_02-55-00.jpg)
+![Скриншот в 02:55:00](./screenshots/screenshot_02-55-00.jpg)
 
 
 ---
@@ -1046,10 +1046,10 @@ This segment covers the finalization of a secure network setup, including:
 - **Key Visual Step**: Setting administrator passwords for coordinators  
   **Timestamp**: [02:57:00]
 
-![Скриншот в 02:57:00](./screenshots\screenshot_02-57-00.jpg)
+![Скриншот в 02:57:00](./screenshots/screenshot_02-57-00.jpg)
 
 
-![Скриншот в 02:57:00](./screenshots\screenshot_02-57-00.jpg)
+![Скриншот в 02:57:00](./screenshots/screenshot_02-57-00.jpg)
 
 
 ---
@@ -1107,10 +1107,10 @@ This section of the video covers the process of setting up and distributing cryp
 - **Documentation:** All steps, especially password assignments and key distributions, should be documented with screenshots for verification purposes.  
   *Visual Moment: Assigning passwords to users and coordinators* [03:00:00]
 
-![Скриншот в 03:00:00](./screenshots\screenshot_03-00-00.jpg)
+![Скриншот в 03:00:00](./screenshots/screenshot_03-00-00.jpg)
 
 
-![Скриншот в 03:00:00](./screenshots\screenshot_03-00-00.jpg)
+![Скриншот в 03:00:00](./screenshots/screenshot_03-00-00.jpg)
 
 
 ### Key Distribution Process
@@ -1120,10 +1120,10 @@ This section of the video covers the process of setting up and distributing cryp
 - **Group Creation:** Node groups for "Office" and "Branch" are created and populated with relevant users and coordinators.
   *Visual Moment: Creating and naming node groups* [03:05:00]
 
-![Скриншот в 03:05:00](./screenshots\screenshot_03-05-00.jpg)
+![Скриншот в 03:05:00](./screenshots/screenshot_03-05-00.jpg)
 
 
-![Скриншот в 03:05:00](./screenshots\screenshot_03-05-00.jpg)
+![Скриншот в 03:05:00](./screenshots/screenshot_03-05-00.jpg)
 
 
 ### Assigning Users to Groups
@@ -1132,10 +1132,10 @@ This section of the video covers the process of setting up and distributing cryp
 - **Group Administrator Passwords:** Each group receives an administrator password, also documented.
   *Visual Moment: Assigning users to groups and setting group admin passwords* [03:08:00]
 
-![Скриншот в 03:08:00](./screenshots\screenshot_03-08-00.jpg)
+![Скриншот в 03:08:00](./screenshots/screenshot_03-08-00.jpg)
 
 
-![Скриншот в 03:08:00](./screenshots\screenshot_03-08-00.jpg)
+![Скриншот в 03:08:00](./screenshots/screenshot_03-08-00.jpg)
 
 
 ### Key Installation on Clients
@@ -1144,10 +1144,10 @@ This section of the video covers the process of setting up and distributing cryp
 - **Linux Client:** Key installation is more complex, requiring additional network configuration.
   *Visual Moment: Installing keys on Windows and Linux clients* [03:12:00]
 
-![Скриншот в 03:12:00](./screenshots\screenshot_03-12-00.jpg)
+![Скриншот в 03:12:00](./screenshots/screenshot_03-12-00.jpg)
 
 
-![Скриншот в 03:12:00](./screenshots\screenshot_03-12-00.jpg)
+![Скриншот в 03:12:00](./screenshots/screenshot_03-12-00.jpg)
 
 
 ### File Transfer via ESXi
@@ -1156,10 +1156,10 @@ This section of the video covers the process of setting up and distributing cryp
 - **Network Adapter Configuration:** Temporary changes to VM network adapters are made to facilitate file transfer, then reverted.
   *Visual Moment: Uploading key files to ESXi datastore* [03:15:00]
 
-![Скриншот в 03:15:00](./screenshots\screenshot_03-15-00.jpg)
+![Скриншот в 03:15:00](./screenshots/screenshot_03-15-00.jpg)
 
 
-![Скриншот в 03:15:00](./screenshots\screenshot_03-15-00.jpg)
+![Скриншот в 03:15:00](./screenshots/screenshot_03-15-00.jpg)
 
 
 ### Troubleshooting and Platform-Specific Issues
@@ -1168,10 +1168,10 @@ This section of the video covers the process of setting up and distributing cryp
 - **Error Handling:** If errors occur (e.g., key distribution failures), restarting the management center or re-uploading keys often resolves the issue.
   *Visual Moment: Adding external network addresses for coordinators* [03:20:00]
 
-![Скриншот в 03:20:00](./screenshots\screenshot_03-20-00.jpg)
+![Скриншот в 03:20:00](./screenshots/screenshot_03-20-00.jpg)
 
 
-![Скриншот в 03:20:00](./screenshots\screenshot_03-20-00.jpg)
+![Скриншот в 03:20:00](./screenshots/screenshot_03-20-00.jpg)
 
 
 ### Regenerating and Redistributing Keys
@@ -1185,10 +1185,10 @@ This section of the video covers the process of setting up and distributing cryp
 - **Network Permissions:** When prompted by the system, always allow network access for the client application to ensure connectivity.
   *Visual Moment: Allowing network access prompt* [03:25:00]
 
-![Скриншот в 03:25:00](./screenshots\screenshot_03-25-00.jpg)
+![Скриншот в 03:25:00](./screenshots/screenshot_03-25-00.jpg)
 
 
-![Скриншот в 03:25:00](./screenshots\screenshot_03-25-00.jpg)
+![Скриншот в 03:25:00](./screenshots/screenshot_03-25-00.jpg)
 
 
 ---
@@ -1246,10 +1246,10 @@ This summary captures the essential workflow and troubleshooting steps for secur
   - *Visual checkpoint*: Take screenshots of key installation for all clients.  
     **Timestamp:** [03:27:00]
 
-![Скриншот в 03:27:00](./screenshots\screenshot_03-27-00.jpg)
+![Скриншот в 03:27:00](./screenshots/screenshot_03-27-00.jpg)
 
 
-![Скриншот в 03:27:00](./screenshots\screenshot_03-27-00.jpg)
+![Скриншот в 03:27:00](./screenshots/screenshot_03-27-00.jpg)
 
 
 - **Launching and Configuring VIPNet Client**
@@ -1258,10 +1258,10 @@ This summary captures the essential workflow and troubleshooting steps for secur
   - *Visual checkpoint*: Screenshot showing successful key installation.  
     **Timestamp:** [03:28:00]
 
-![Скриншот в 03:28:00](./screenshots\screenshot_03-28-00.jpg)
+![Скриншот в 03:28:00](./screenshots/screenshot_03-28-00.jpg)
 
 
-![Скриншот в 03:28:00](./screenshots\screenshot_03-28-00.jpg)
+![Скриншот в 03:28:00](./screenshots/screenshot_03-28-00.jpg)
 
 
 - **Initial Coordinator Setup**
@@ -1273,10 +1273,10 @@ This summary captures the essential workflow and troubleshooting steps for secur
   - *Visual checkpoint*: Screenshot of region and year selection during setup.  
     **Timestamp:** [03:32:00]
 
-![Скриншот в 03:32:00](./screenshots\screenshot_03-32-00.jpg)
+![Скриншот в 03:32:00](./screenshots/screenshot_03-32-00.jpg)
 
 
-![Скриншот в 03:32:00](./screenshots\screenshot_03-32-00.jpg)
+![Скриншот в 03:32:00](./screenshots/screenshot_03-32-00.jpg)
 
 
 - **Network Configuration**
@@ -1288,10 +1288,10 @@ This summary captures the essential workflow and troubleshooting steps for secur
   - *Visual checkpoint*: Screenshot of interface configuration and hostname assignment.  
     **Timestamp:** [03:37:00]
 
-![Скриншот в 03:37:00](./screenshots\screenshot_03-37-00.jpg)
+![Скриншот в 03:37:00](./screenshots/screenshot_03-37-00.jpg)
 
 
-![Скриншот в 03:37:00](./screenshots\screenshot_03-37-00.jpg)
+![Скриншот в 03:37:00](./screenshots/screenshot_03-37-00.jpg)
 
 
 - **Finalizing Setup**
@@ -1308,10 +1308,10 @@ This summary captures the essential workflow and troubleshooting steps for secur
   - *Visual checkpoint*: Screenshot of the VIPNet client showing all connections/monitors lit up for all users and coordinators.  
     **Timestamp:** [03:44:00]
 
-![Скриншот в 03:44:00](./screenshots\screenshot_03-44-00.jpg)
+![Скриншот в 03:44:00](./screenshots/screenshot_03-44-00.jpg)
 
 
-![Скриншот в 03:44:00](./screenshots\screenshot_03-44-00.jpg)
+![Скриншот в 03:44:00](./screenshots/screenshot_03-44-00.jpg)
 
 
 - **Important Exam Tips**
@@ -1327,10 +1327,10 @@ This summary captures the essential workflow and troubleshooting steps for secur
   - *Visual checkpoint*: Screenshot of user connections in the network management center.  
     **Timestamp:** [03:46:00]
 
-![Скриншот в 03:46:00](./screenshots\screenshot_03-46-00.jpg)
+![Скриншот в 03:46:00](./screenshots/screenshot_03-46-00.jpg)
 
 
-![Скриншот в 03:46:00](./screenshots\screenshot_03-46-00.jpg)
+![Скриншот в 03:46:00](./screenshots/screenshot_03-46-00.jpg)
 
 
 - **Resource Requirements**
@@ -1400,10 +1400,10 @@ Hostname: coordinatorCA (no spaces/dots)
 - **Access to Demo Stands**
   - Access credentials for demo stands will likely be distributed the next day ([03:52:00]
 
-![Скриншот в 03:52:00](./screenshots\screenshot_03-52-00.jpg)
+![Скриншот в 03:52:00](./screenshots/screenshot_03-52-00.jpg)
 
 
-![Скриншот в 03:52:00](./screenshots\screenshot_03-52-00.jpg)
+![Скриншот в 03:52:00](./screenshots/screenshot_03-52-00.jpg)
 ).
   - Participants are encouraged to set up locally if possible for better performance, as network access may be slower.
 
@@ -1413,10 +1413,10 @@ Hostname: coordinatorCA (no spaces/dots)
 - **Recording Availability**
   - The session recording will be available on RuTube ([03:53:20]
 
-![Скриншот в 03:53:20](./screenshots\screenshot_03-53-20.jpg)
+![Скриншот в 03:53:20](./screenshots/screenshot_03-53-20.jpg)
 
 
-![Скриншот в 03:53:20](./screenshots\screenshot_03-53-20.jpg)
+![Скриншот в 03:53:20](./screenshots/screenshot_03-53-20.jpg)
 ).
 
 - **Session Conclusion**
